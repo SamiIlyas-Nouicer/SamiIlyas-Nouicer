@@ -12,6 +12,8 @@
 # 💫About Me :
 
 Portfolio : https://my-portfolio-ten-omega-14.vercel.app/
+
+
 🔭 I’m currently looking for an intern or a part time job
   
 🌱 I’m currently learning : NLP
